@@ -53,6 +53,3 @@ Actividad4-Arquitectura-Distribuida/
 - **Observer (distribuido)**: los consumidores se suscriben a temas y reciben notificaciones vía eventos.
 - **Proxy**: la capa de red (NetworkLayer/NetworkChannel) actúa como intermediario para enviar/recibir mensajes.
 
-## Autor
-
-Trabajo individual – Arquitectura de Software – Unidad 2.
