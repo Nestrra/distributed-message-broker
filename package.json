@@ -1,0 +1,17 @@
+{
+  "name": "actividad4-arquitectura-distribuida",
+  "version": "1.0.0",
+  "description": "Sistema de mensajería distribuida - Actividad 4 Arquitectura de Software (Node.js)",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "simulate": "node src/main.js",
+    "test": "node tests/test-broker.js"
+  },
+  "keywords": ["arquitectura", "distribuido", "broker", "mensajería"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
